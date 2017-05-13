@@ -1,0 +1,17 @@
+D:\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\bin\Debug\Trastilvania_Project.exe
+D:\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\bin\Debug\Trastilvania_Project.pdb
+D:\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\ResolveAssemblyReference.cache
+D:\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.Properties.Resources.resources
+D:\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.csproj.GenerateResource.Cache
+D:\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.exe
+D:\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.pdb
+D:\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.Form1.resources
+D:\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.Err_Dialog.resources
+D:\SUPPLY_DEPOT_PARTITION\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.exe
+D:\SUPPLY_DEPOT_PARTITION\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.pdb
+D:\SUPPLY_DEPOT_PARTITION\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\bin\Debug\Trastilvania_Project.exe
+D:\SUPPLY_DEPOT_PARTITION\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\bin\Debug\Trastilvania_Project.pdb
+D:\SUPPLY_DEPOT_PARTITION\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.Err_Dialog.resources
+D:\SUPPLY_DEPOT_PARTITION\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.Form1.resources
+D:\SUPPLY_DEPOT_PARTITION\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.Properties.Resources.resources
+D:\SUPPLY_DEPOT_PARTITION\University Study\My C# Projects (VST2008)\Trastilvania_Project\Trastilvania_Project\obj\Debug\Trastilvania_Project.csproj.GenerateResource.Cache

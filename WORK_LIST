@@ -1,0 +1,70 @@
+PENDING WORK:
+-------------
+
+
+1- (DONE)Falta tratamiento de agentes.
+
+2- (DONE)Falta programación cuando los agentes están orientados hacia arriba.
+
+3- (DONE)Falta programación de los agentes que están orientados hacia abajo.
+
+4- (DONE)Falta programación de los agentes que están orientados hacia la derecha.
+
+5- (DONE)Falta programación de los agentes que están orientados hacia la izquierda.
+
+6- (DONE)Falta tratamiento de huecos.
+
+7- Falta tratamiento de los trastes que aparecen.
+
+8- (DONE)Faltan las restricciones de escritura en los textbox.
+
+9- Falta la sincronización del tiempo.
+
+10- (DONE)Falta la conexión de los textbox al código del Form.
+
+11- Faltan los créditos.
+
+
+DETECTED PROBLEMS:
+------------------
+
+
+1- (SOLUCIONADO)Error cuando hay un traste doble hacia arriba y el agente intenta empujarlo.
+
+2- (SOLUCIONADO)Error cuando hay un agente debajo de un traste orientado hacia arriba y otro orientado hacia arriba al lado derecho del traste.
+
+3- (SOLUCIONADO)Error cuando el agente va por uno de los extremos y se encuentra con un muro, no hay chequeo de si se gira hacia un muro o no.
+
+4- (SOLUCIONADO)Error cuando se encuentra con un muro o un traste y el agente está en una de las esquinas arrastrando el traste.
+
+5- (SOLUCIONADO)Error cuando se encuentra con un traste y detrás hay un muro
+
+6- (SOLUCIONADO)No hay prevención de ciclos, por lo que el agente puede caer en ciclos infinitos de giros.
+
+7- (SOLUCIONADO)Error cuando un agente cae en un hueco, al salir siempre sale con la misma orientación.
+
+8- (SOLUCIONADO)Error cuando salen los agentes, ninguno sale orientado hacia la derecha.
+
+9- (SOLUCIONADO)Error cuando hay un traste en el extremo superior del mundo y el agente intenta empujarlo.
+
+10- (SOLUCIONADO)Error cuando chocan dos agentes, se pasan por arriba.
+
+11- (SOLUCIONADO)Error cuando un agente empuja un traste y se encuentra otro agente en el medio, ambos se quedan parados.
+
+12- (SOLUCIONADO)Error cuando se desborda la matrix con los agentes que van hacia arriba.
+
+13- (SOLUCIONADO)Fallo en la actualización de World Data, la secuencia de trastes no se acutaliza correctamente.
+
+14- (SOLUCIONADO)Error cuando dos trastes se quedan parados intentando mover un traste.
+
+15- (SOLUCIONADO)Error en ocasiones los trastes se pasan por arriba
+
+16- (SOLUCIONADO)En ocasiones los agentes que empujan trastes se quedan parados, sucede principalmente con los que están orientados en los laterales.
+
+17- (SOLUCIONADO)El agente no avanza cuando tiene al menos un traste en las diagonales inferiores y no puede girar a los laterales teniendo un hueco delante.
+
+18- (SOLUCIONADO)El agente cae en un ciclo cuando tiene trastes que no están siendo movidos en los laterales y hay un hueco delante.
+
+19- (SOLUCIONADO)Error cuando un agente se encuentra con un traste solo en una de los bordes del mundo.
+
+20- (SOLUCIONADO)Error cuando hay un hueco en el borde inferior y hay un traste delante, el agento no lo mete en el hueco.

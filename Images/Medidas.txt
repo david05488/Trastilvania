@@ -1,0 +1,15 @@
+Casillas: 0,5 cm.
+
+Casillas horizontales: 44.
+
+Casillas verticales: 24.
+
+Total de casillas: 1056
+
+Nuevas medidas:
+
+Casillas horizontales: 41.
+
+Casillas verticales: 22.
+
+Tamaño de las casillas: 15 unidades.
